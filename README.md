@@ -22,6 +22,6 @@ Welcome to my data portfolio! With a background spanning IT management, ERP deve
 
 ## 📁 Repository Structure
 
-
+Data-Portfolio/ │ ├── SQL-Projects/           # Real-world queries and optimizations ├── PowerBI-Dashboards/     # PBIX files and screenshots ├── Python-Analysis/        # Scripts for data cleaning and EDA ├── R-Models/               # R scripts for statistical analysis ├── Tableau-Visuals/        # Packaged workbooks and insights └── README.md               # This fil
 
 
